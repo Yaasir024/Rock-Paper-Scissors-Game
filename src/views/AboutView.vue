@@ -26,7 +26,7 @@
           viewBox="80 30 440 440"
           xml:space="preserve"
         >
-          <g style="fill: #000000; stroke: #000000; stroke-width: 3">
+          <g style="fill: #fff; stroke: #000000; stroke-width: 3">
             <path
               style="fill: none"
               d="M 205.041,366.998 c -44.333 -31.121 -74.01 -81.703 -76.621 -139.339"
