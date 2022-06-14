@@ -57,7 +57,7 @@ const emits = defineEmits(['registerChoice', 'resetGame'])
     </div>
 </template>
 
-<style scoped>
+<style>
 .player {
   text-align: center;
 }
