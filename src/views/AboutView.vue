@@ -7,7 +7,9 @@
     <div class="content">
       <h2>Thanks for playing Rock Paper Scissors. This game was made by Falana Yaasir. A Junior Developer</h2>
       <h1>How the game Works</h1>
-      <img src="../assets/rock-paper-scissors 3.jpg" alt="">
+      <div class="image-wrapper">
+        <img src="../assets/rock-paper-scissors 3.jpg" alt="">
+      </div>
       <h2>Rock beats Scissors</h2>
       <h2>Paper beats Rock</h2>
       <h2>Scissors beats Paper</h2>
@@ -30,6 +32,9 @@
   margin: 0 auto;
   text-align: center;
   padding-top: 50px;
+}
+img {
+  width: 100%;
 }
 </style>
 
